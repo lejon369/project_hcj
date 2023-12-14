@@ -1,0 +1,26 @@
+body{
+    background-color: #ffffff;
+}
+.mywatch{
+    top:35%;
+    left: 34%;
+    position: fixed;
+    background-color: rgb(65, 132, 190);
+    padding: 50px;
+    border-radius: 5px;
+    box-shadow: 0 10 50px rgba(0,0,0,0.1);
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+span{
+    font-size: 50px;
+}
+
+
+
+
+
+
+
